@@ -47,7 +47,7 @@ python TravelRecommender.py
 
 
 ## Future Improvements
-- Enhancing the machine learning of the program, to get better recommendations of the travel destination.
+- Enhancing the machine learning of the program, to get better recommendations of travel destination.
 - Provide more categories to choose for the user, to make predictions even more personalized.
 - Use of more data of travel destinations, to get a wider range of options.
 - Improve the GUI or convert the application to a web-based application.
