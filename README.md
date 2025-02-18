@@ -52,3 +52,7 @@ python TravelRecommender.py
 - Use of more data of travel destinations, to get a wider range of options.
 - Improve the GUI or convert the application to a web-based application.
 - User feedback to get a better learning effect for the application.
+
+
+https://github.com/user-attachments/assets/6d9ca125-0990-47df-bfe8-2bca6796ca6e
+
