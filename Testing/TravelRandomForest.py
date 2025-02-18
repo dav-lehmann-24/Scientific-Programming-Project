@@ -1,5 +1,4 @@
 import pandas as pd
-import sklearn
 from sklearn.ensemble import RandomForestClassifier
 
 # Define feature columns (user input) and target value (destination to predict) for the Random Forest
@@ -19,8 +18,8 @@ forest.fit(X, y) # Train the model using the dataset
 
 # Collect user inputs and store them in a DataFrame
 pred_input = pd.DataFrame({
-    "Category": ["Region"],
-    "Best Time to Visit": ["Winter (Dec-Mar) for Northern Lights, Summer (Jun-Aug) for hiking"],
+    "Category": ["City"],
+    "Best Time to Visit": ["Spring (April-May) or Fall (Sept-Oct)"],
     "Cost of Living": ["Medium-high"]
 })
 
