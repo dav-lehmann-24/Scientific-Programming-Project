@@ -20,7 +20,7 @@ pip install pandas scikit-learn tkinter
 ```
 ### Running the Application
 1. Clone or download this repository
-2. Ensure that you have the dataset "destinations.csv" in the same directory. You can download the dataset here: https://www.kaggle.com/datasets/faizadani/european-tour-destinations-dataset
+2. Ensure that you have the dataset "destinations.csv" in the same directory. You can get it from the repository or download it here: https://www.kaggle.com/datasets/faizadani/european-tour-destinations-dataset
 3. Run the Python script
 ```
 python TravelRecommender.py
